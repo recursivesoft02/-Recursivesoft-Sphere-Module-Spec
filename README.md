@@ -1,5 +1,5 @@
 # Recursivesoft Sphere Module Spec
-![alt txt](https://raw.githubusercontent.com/recursivesoft02/Recursivesoft-Sphere-Module-Spec/master/rec/SphareModule.png)
+![alt txt](https://raw.githubusercontent.com/recursivesoft02/-Recursivesoft-Sphere-Module-Spec/master/rec/sphare_module.png)
 - Dimensions: 33mm x 22mm x 3.5mm
 - OTA authentication & updates (device lifetime)
 - Onboard dual-band 2.4/5GHz chip antenna
@@ -75,4 +75,4 @@ support of:
 - EXT INT inputs
 
 ## Bootstrap Pins
-![alt txt](https://raw.githubusercontent.com/recursivesoft02/Recursivesoft-Sphere-Module-Spec/master/rec/BootstrapPins.png)
+![alt txt](https://raw.githubusercontent.com/recursivesoft02/-Recursivesoft-Sphere-Module-Spec/master/rec/BootstrapPins.png)
